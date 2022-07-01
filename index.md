@@ -1,7 +1,3 @@
 # Gabriel Ricardo
 
----
-
-## GitHub Page
-
-:octocat: […]
+[www.gabrielricardo.com.br](https://www.gabrielricardo.com.br/)
